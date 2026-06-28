@@ -1,1 +1,18 @@
 # index.html
+SCORE
+0
+LAST
+—
+BEST
+0
+
+TAP layar atau tekan SPACE
+
+SKILL CHECK TRAINER
+MODE
+NORMAL
+RANDOM
+KECEPATAN AWAL: 4.0
+
+MULAI
+@heiko_yoshiki
